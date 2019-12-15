@@ -1,6 +1,6 @@
 module.exports = {
-	title: "Vuepress 译文文档模板",
-	description: "",
+	title: "KLEUR",
+	description: "The fastest Node.js library for formatting terminal text with ANSI colors~!",
 	configureWebpack: {
 		resolve: {
 			alias: {
@@ -54,11 +54,11 @@ module.exports = {
 			{
 				text: "首页",
 				link: "/"
+			},
+			{
+				text: "Github",
+				link: "https://github.com/lukeed/kleur"
 			}
-			// {
-			//     text: "Github",
-			//     link: " "
-			// }
 		],
 		sidebar: [
 			// {
