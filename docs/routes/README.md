@@ -41,7 +41,7 @@ console.log(bold().yellow().bgRed().italic('this is a bold yellow italicized mes
 console.log(green().bold().underline('this is a bold green underlined message'));
 ```
 
-![image](/images/chainMethods.png)
+![image](/kleur_docs_cn/images/chainMethods.png)
 
 ### 嵌套调用
 
@@ -52,7 +52,7 @@ console.log(yellow(`foo ${red().bold('red')} bar ${cyan('cyan')} baz`));
 console.log(yellow('foo ' + red().bold('red') + ' bar ' + cyan('cyan') + ' baz'));
 ```
 
-![image](/images/nestedMethods.png)
+![image](/kleur_docs_cn/images/nestedMethods.png)
 
 ### 有条件支持
 

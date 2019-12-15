@@ -2,11 +2,7 @@ module.exports = {
 	title: "KLEUR",
 	description: "The fastest Node.js library for formatting terminal text with ANSI colors~!",
 	configureWebpack: {
-		resolve: {
-			alias: {
-				"@img": "/kleur_docs_cn/images/"
-			}
-		}
+		resolve: {}
 	},
 	base: "/kleur_docs_cn/",
 	markdown: {
