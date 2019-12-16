@@ -66,5 +66,5 @@ module.exports = {
 		lastUpdated: "上次更新",
 		repo: ""
 	},
-	head: [["link", { rel: "icon", href: "/kleur_docs_cn/images/favicon.ico" }]]
+	head: [["link", { rel: "icon", href: "/images/favicon.ico" }]]
 };
