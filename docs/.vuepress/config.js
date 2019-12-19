@@ -11,7 +11,6 @@ module.exports = {
 			permalink: false
 		}
 	},
-	plugins: [],
 	themeConfig: {
 		displayAllHeaders: true, // 默认值：false
 		smoothScroll: true,
