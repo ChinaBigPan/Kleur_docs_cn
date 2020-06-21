@@ -1,15 +1,15 @@
 module.exports = {
 	title: "KLEUR",
-	description: "The fastest Node.js library for formatting terminal text with ANSI colors~!",
+	description: "使用ANSI颜色格式化终端文本的最快速的Node.js库",
 	configureWebpack: {
-		resolve: {}
+		resolve: {},
 	},
 	base: "/kleur_docs_cn/",
 	markdown: {
 		lineNumbers: true,
 		anchor: {
-			permalink: false
-		}
+			permalink: false,
+		},
 	},
 	themeConfig: {
 		displayAllHeaders: true, // 默认值：false
@@ -17,16 +17,16 @@ module.exports = {
 		nav: [
 			{
 				text: "首页",
-				link: "/"
+				link: "/",
 			},
 			{
 				text: "Github",
-				link: "https://github.com/lukeed/kleur"
-			}
+				link: "https://github.com/lukeed/kleur",
+			},
 		],
 		sidebar: [],
 		lastUpdated: "上次更新",
-		repo: ""
+		repo: "",
 	},
-	head: [["link", { rel: "icon", href: "/images/favicon.ico" }]]
+	head: [["link", { rel: "icon", href: "/images/favicon.ico" }]],
 };
