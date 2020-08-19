@@ -1,6 +1,6 @@
 module.exports = {
-	title: "KLEUR",
-	description: "使用ANSI颜色格式化终端文本的最快速的Node.js库",
+	title: "Kleur",
+	description: "使用 ANSI 颜色格式化终端文本的轻量化的 Node.js 库",
 	configureWebpack: {
 		resolve: {},
 	},

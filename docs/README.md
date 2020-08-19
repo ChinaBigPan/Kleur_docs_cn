@@ -13,7 +13,7 @@ meta:
     - name: feversion
       content: v 3.0.3
     - name: fetags
-      content: "[{'kind': 'node', 'text': 'Node.js'}, { 'kind': 'shell', 'text': 'Shell' }]"
+      content: "[{'kind': 'iconpowershell', 'text': 'Shell'}, { 'kind': 'iconNodejs', 'text': 'Node.js' }]"
 features:
     - title: 无外部依赖
       details: 轻量化、高性能
