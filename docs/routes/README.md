@@ -2,7 +2,11 @@
 sidebar: 'auto'
 ---
 
-## 欢迎使用Kleur
+<febeacon />
+
+## 欢迎使用 Kleur
+
+[英文原地址](https://github.com/lukeed/kleur)
 
 > 用ANSI码让您的终端绚丽多彩
 

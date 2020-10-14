@@ -14,14 +14,19 @@ module.exports = {
 	themeConfig: {
 		displayAllHeaders: true, // 默认值：false
 		smoothScroll: true,
+		logo: "/images/logo.png",
 		nav: [
+			{
+                text: "大笑文档",
+                link: "http://www.febeacon.com"
+            },
 			{
 				text: "首页",
 				link: "/",
 			},
 			{
 				text: "Github",
-				link: "https://github.com/lukeed/kleur",
+				link: "",
 			},
 		],
 		sidebar: [],
